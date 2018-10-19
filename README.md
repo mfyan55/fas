@@ -1,5 +1,7 @@
-# FASCrack流控
+# FAS3.0 余情科技破解
+FAS3.0 stream control script 一键脚本
 
-#### 项目介绍
-fas流控尼玛3.0破解版
 
+```
+wget https://gitee.com/yuqingkj/FAS4.0/raw/master/fas.sh;bash fas.sh
+```
