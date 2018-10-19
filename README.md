@@ -3,5 +3,5 @@ FAS3.0 stream control script 一键脚本
 
 
 ```
-wget https://gitee.com/seminima/fas/master/fas.sh;bash fas.sh
+wget https://gitee.com/seminima/fas/blob/master/fas.sh;bash fas.sh
 ```
